@@ -1,8 +1,8 @@
-# aframe-boilerplate
-⛺️ Complete A-Frame boilerplate.
+# aframe-environments
+> ⛰ Escape Room environment prototypes 
 
 ## 📖 Introduction
-A-Frame boilerplate that uses Webpack to bundle the A-Frame framework, includes a templating engine to include HTML snippers and creates a server using Webpack Dev Server.
+A-Frame boilerplate that uses Webpack to bundle the A-Frame framework, includes a templating engine to include HTML snippers and creates a server using Webpack Dev Server. It is used to test different environments for the Escape Room.
 
 ## ⚙ Installation & Development
 ### Tech Stack

@@ -1,7 +1,8 @@
-<a-assets>
-  <img id="groundTexture" src="/src/assets/floor.jpg">
-  <img id="skyTexture" src="/src/assets/sky.jpg">
-</a-assets>
-
-<a-sky id="background" src="#skyTexture" theta-length="90" radius="10"></a-sky>
-<a-cylinder id="ground" src="#groundTexture" radius="30" height="0.1"></a-cylinder>
+<rw-room position="-2 0 -2" material="color:#866">
+  <rw-wall position="6 0 0" height="4"></rw-wall>
+  <rw-wall position="6 0 6" height="4"></rw-wall>
+  <rw-wall position="0 0 6" height="4"></rw-wall>
+  <rw-wall position="0 0 0" height="4"></rw-wall>
+  <rw-floor material="color:#99A"></rw-floor>
+  <rw-ceiling material="color:#99A"></rw-ceiling>
+</rw-room>
